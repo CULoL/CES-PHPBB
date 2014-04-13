@@ -1,0 +1,8 @@
+.unread a.forumtitle { color: #EA6A20; }
+
+a:hover.navbar{
+	color: FFFFFF;
+}
+
+a:visited.navbar{ color: #FFFFFF;
+}
